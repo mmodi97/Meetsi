@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533215248261",
+    "project_id": "meetsi-35122",
+    "storage_bucket": "meetsi-35122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533215248261:android:a0069ec0bdea1f20f80eec",
+        "android_client_info": {
+          "package_name": "com.tools.meetsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533215248261-05kcipmq68b9pko89lvrrv6954n3dvui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJ3mgV54_HAqzaBNXgPRK8pmePUhUKSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533215248261-05kcipmq68b9pko89lvrrv6954n3dvui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
